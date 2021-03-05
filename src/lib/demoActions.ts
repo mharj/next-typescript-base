@@ -5,9 +5,8 @@ export interface IToDo {
 	completed: boolean;
 }
 
-
 export async function getHome(): Promise<IToDo> {
-    const res = await fetch('https://jsonplaceholder.typicode.com/todos/1');
-    const data: IToDo = await res.json();
-    return data;
-} 
+	const res = await fetch('https://jsonplaceholder.typicode.com/todos/1');
+	const data: IToDo = await res.json();
+	return data;
+}

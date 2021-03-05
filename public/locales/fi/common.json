@@ -1,0 +1,16 @@
+{
+    "broken": "Rikki",
+    "eng": "Englanti",
+    "example": "Esimerkki",
+    "fatal_error": "Vakava virhe",
+    "fin": "Suomi",
+    "hello": "Hei",
+    "home": "Koti",
+    "login": "Kirjaudu sisään",
+    "logout": "Kirjaudu ulos",
+    "no": "Ei",
+    "secret": "Salainen",
+    "sve": "Ruotsi",
+    "world": "maailma",
+    "yes": "Kyllä"
+}
